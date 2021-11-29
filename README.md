@@ -11,7 +11,7 @@ With the 9th graders taken out, we can see clearly that the Charter School passi
 ![Type-Original](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/By_Type_Original.PNG)
 ##### Updated results by Type of School with THS 9th graders removed
 ![Type-Updated](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/By_Type_New.PNG)
-###How is the school summary affected?
+### How is the school summary affected?
 The overall passing percentage for Thomas High School went down as well after we ran the data again. THS had an overall passing rate of 90% and went down to 65% after the 9th graders were removed.
 ##### Original overall passing percentage by school:
 ![Overall-Original](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/Original_Overall_Pass.PNG)
