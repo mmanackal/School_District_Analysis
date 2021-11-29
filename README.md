@@ -8,16 +8,15 @@ Right when we had completed our data analysis, we learned that there is evidence
 ###How is the district summary affected?
 With the 9th graders taken out, we can see clearly that the Charter School passing percentages for math and reading went down. Thomas High School was a charter school.
 ##### Original results by Type of School
-insert image
+![Type-Original](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/By_Type_Original.PNG)
 ##### Updated results by Type of School with THS 9th graders removed
-insert image
-
+![Type-Updated](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/By_Type_New.PNG)
 ###How is the school summary affected?
 The overall passing percentage for Thomas High School went down as well after we ran the data again. THS had an overall passing rate of 90% and went down to 65% after the 9th graders were removed.
 ##### Original overall passing percentage by school:
-insert image
+![Overall-Original](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/Original_Overall_Pass.PNG)
 ##### Updated overall passing percentage by school:
-insert image
+![Overall-Updated](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/New_Overall_Pass.PNG)
 ###How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Thomas High School's performance went down which can be seen in the images above.
 
