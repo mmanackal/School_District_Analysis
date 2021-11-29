@@ -5,7 +5,7 @@ The purpose of this project was to help Maria analyze high school data within a 
 Right when we had completed our data analysis, we learned that there is evidence of academic dishonesty among 9th graders at Thomas High School. Their grades had been altered and we had to go back and place and NaN for their grades and re-run the analysis.
  
 ## Results
-###How is the district summary affected?
+### How is the district summary affected?
 With the 9th graders taken out, we can see clearly that the Charter School passing percentages for math and reading went down. Thomas High School was a charter school.
 ##### Original results by Type of School
 ![Type-Original](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/By_Type_Original.PNG)
@@ -18,10 +18,10 @@ The overall passing percentage for Thomas High School went down as well after we
 ##### Updated overall passing percentage by school:
 ![Overall-Updated](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/New_Overall_Pass.PNG)
 
-###How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Thomas High School's performance went down which can be seen in the images above.
 
-####How does replacing the ninth-grade scores affect the following:
+#### How does replacing the ninth-grade scores affect the following:
 - Math and reading scores by grade
 - Scores by school spending
 - Scores by school size
