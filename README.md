@@ -17,6 +17,7 @@ The overall passing percentage for Thomas High School went down as well after we
 ![Overall-Original](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/Original_Overall_Pass.PNG)
 ##### Updated overall passing percentage by school:
 ![Overall-Updated](https://github.com/mmanackal/School_District_Analysis/blob/main/Resources/New_Overall_Pass.PNG)
+
 ###How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 Thomas High School's performance went down which can be seen in the images above.
 
